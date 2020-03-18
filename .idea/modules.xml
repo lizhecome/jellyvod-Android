@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlivcLittleVideo/AlivcLittleVideo.iml" filepath="$PROJECT_DIR$/AlivcLittleVideo/AlivcLittleVideo.iml" group="ApsaraVideoQuVideo/AlivcLittleVideo" />
+      <module fileurl="file://$PROJECT_DIR$/AlivcMedia/AlivcMedia.iml" filepath="$PROJECT_DIR$/AlivcMedia/AlivcMedia.iml" group="ApsaraVideoQuVideo/AlivcMedia" />
+      <module fileurl="file://$PROJECT_DIR$/AliyunCrop/AliyunCrop.iml" filepath="$PROJECT_DIR$/AliyunCrop/AliyunCrop.iml" group="ApsaraVideoQuVideo/AliyunCrop" />
+      <module fileurl="file://$PROJECT_DIR$/AliyunEditor/AliyunEditor.iml" filepath="$PROJECT_DIR$/AliyunEditor/AliyunEditor.iml" group="ApsaraVideoQuVideo/AliyunEditor" />
+      <module fileurl="file://$PROJECT_DIR$/AliyunFileDownLoader/AliyunFileDownLoader.iml" filepath="$PROJECT_DIR$/AliyunFileDownLoader/AliyunFileDownLoader.iml" group="ApsaraVideoQuVideo/AliyunFileDownLoader" />
+      <module fileurl="file://$PROJECT_DIR$/AliyunRecorder/AliyunRecorder.iml" filepath="$PROJECT_DIR$/AliyunRecorder/AliyunRecorder.iml" group="ApsaraVideoQuVideo/AliyunRecorder" />
+      <module fileurl="file://$PROJECT_DIR$/AliyunSVideoBase/AliyunSVideoBase.iml" filepath="$PROJECT_DIR$/AliyunSVideoBase/AliyunSVideoBase.iml" group="ApsaraVideoQuVideo/AliyunSVideoBase" />
+      <module fileurl="file://$PROJECT_DIR$/AliyunSvideoMusic/AliyunSvideoMusic.iml" filepath="$PROJECT_DIR$/AliyunSvideoMusic/AliyunSvideoMusic.iml" group="ApsaraVideoQuVideo/AliyunSvideoMusic" />
+      <module fileurl="file://$PROJECT_DIR$/AliyunVideoCommon/AliyunVideoCommon.iml" filepath="$PROJECT_DIR$/AliyunVideoCommon/AliyunVideoCommon.iml" group="ApsaraVideoQuVideo/AliyunVideoCommon" />
+      <module fileurl="file://$PROJECT_DIR$/ApsaraVideoQuVideo.iml" filepath="$PROJECT_DIR$/ApsaraVideoQuVideo.iml" group="ApsaraVideoQuVideo" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ApsaraVideoQuVideo/app" />
+      <module fileurl="file://$PROJECT_DIR$/AliyunCrop/crop/crop.iml" filepath="$PROJECT_DIR$/AliyunCrop/crop/crop.iml" group="ApsaraVideoQuVideo/AliyunCrop/crop" />
+      <module fileurl="file://$PROJECT_DIR$/AliyunRecorder/record/record.iml" filepath="$PROJECT_DIR$/AliyunRecorder/record/record.iml" group="ApsaraVideoQuVideo/AliyunRecorder/record" />
+    </modules>
+  </component>
+</project>

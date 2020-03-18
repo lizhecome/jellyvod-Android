@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alivc_little_bg_download">#B3373D41</color>
+    <color name="alivc_little_bg_player_icon">#aa2e2e2e</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <declare-styleable name="LoadingViewAttrs"><attr format="string" name="startmode"/></declare-styleable>
+    <dimen name="alivc_little_bottom_bg_height">48dp</dimen>
+    <dimen name="alivc_little_bottom_tab_icon_height">30dp</dimen>
+    <dimen name="alivc_little_bottom_tab_icon_width">30dp</dimen>
+    <dimen name="alivc_little_bottom_tab_more_height">52dp</dimen>
+    <dimen name="alivc_little_bottom_tab_more_margin_bottom">2dp</dimen>
+    <dimen name="alivc_little_bottom_tab_more_width">52dp</dimen>
+    <dimen name="alivc_little_bottom_tab_underline_bottom">1dp</dimen>
+    <dimen name="alivc_little_bottom_tab_underline_height">2dp</dimen>
+    <dimen name="alivc_little_bottom_tab_underline_top">2dp</dimen>
+    <dimen name="alivc_little_bottom_tab_underline_width">24dp</dimen>
+    <dimen name="alivc_little_bottom_view_height">58dp</dimen>
+    <dimen name="alivc_little_content_view_nick_name_margin_bottom">10dp</dimen>
+    <dimen name="alivc_little_content_view_nick_name_margin_left">16dp</dimen>
+    <dimen name="alivc_little_content_view_nick_name_text_size">15sp</dimen>
+    <dimen name="alivc_little_content_view_user_icon_height">36dp</dimen>
+    <dimen name="alivc_little_content_view_user_icon_width">36dp</dimen>
+    <dimen name="alivc_little_content_view_video_title_margin_top">11dp</dimen>
+    <dimen name="alivc_little_content_view_video_title_max_width">210dp</dimen>
+    <dimen name="alivc_little_content_view_video_title_text_size">14sp</dimen>
+    <dimen name="alivc_little_menu_close_icon_height">54dp</dimen>
+    <dimen name="alivc_little_menu_close_icon_widht">54dp</dimen>
+    <dimen name="alivc_little_menu_editor_margin">80dp</dimen>
+    <dimen name="alivc_little_menu_padding_bottom">4dp</dimen>
+    <dimen name="alivc_little_menu_recorder_margin">80dp</dimen>
+    <dimen name="alivc_little_publish_cover_h">250dp</dimen>
+    <dimen name="alivc_little_publish_cover_w">152dp</dimen>
+    <dimen name="alivc_little_video_play_icon_height">50dp</dimen>
+    <dimen name="alivc_little_video_play_icon_width">50dp</dimen>
+    <dimen name="bottom_view_height">49dp</dimen>
+    <string name="alivc_little_dialog_permission_tips">Please allow ApsaraVideo to access Photos first，Please allow ApsaraVideo to access sdcard first，Please allow ApsaraVideo to access sdcard first</string>
+    <string name="alivc_little_main_creation_failed">Video creation failed</string>
+    <string name="alivc_little_main_dialog_close">Close</string>
+    <string name="alivc_little_main_dialog_content_delete">Are you sure you want to delete the specified video?</string>
+    <string name="alivc_little_main_dialog_editor">Recorder</string>
+    <string name="alivc_little_main_dialog_not_setting">Cancel</string>
+    <string name="alivc_little_main_dialog_recorder">Editor</string>
+    <string name="alivc_little_main_dialog_retry">Retry</string>
+    <string name="alivc_little_main_dialog_setting">Set</string>
+    <string name="alivc_little_main_dialog_upload_failed">Uploading failed</string>
+    <string name="alivc_little_main_downloading">Downloading</string>
+    <string name="alivc_little_main_net_error">network error</string>
+    <string name="alivc_little_main_not_support_edit">The mobile version do not support edit</string>
+    <string name="alivc_little_main_not_support_recorder">The mobile version do not support recorder</string>
+    <string name="alivc_little_main_picture_upload_error">Uploading failed</string>
+    <string name="alivc_little_main_publish">Publishing</string>
+    <string name="alivc_little_main_tip_exit">Press once more to exit the application</string>
+    <string name="alivc_little_main_tip_publish_error">Video publishing error,</string>
+    <string name="alivc_little_main_tip_upload_success">upload success</string>
+    <string name="alivc_little_main_video_upload_error">Uploading failed</string>
+    <string name="alivc_little_mine_dialog_audit_fail">Sorry, the video contains inappropriate content. The video has been deleted?</string>
+    <string name="alivc_little_mine_dialog_cancel">Cancel</string>
+    <string name="alivc_little_mine_dialog_confirm">Confirm</string>
+    <string name="alivc_little_mine_failed">Failed</string>
+    <string name="alivc_little_mine_my_video">my video</string>
+    <string name="alivc_little_mine_not_support_play">Moderating video content. You cannot watch the video now！</string>
+    <string name="alivc_little_mine_passed">Passed</string>
+    <string name="alivc_little_mine_reviewing">Reviewing</string>
+    <string name="alivc_little_play_anonymous">Anonymous</string>
+    <string name="alivc_little_play_date_none">None</string>
+    <string name="alivc_little_play_dialog_delete">delete</string>
+    <string name="alivc_little_play_dialog_save_loacal">Local</string>
+    <string name="alivc_little_play_tip_downloaded">Downloaded</string>
+    <string name="alivc_little_play_tip_last_video">This is the last video</string>
+    <string name="alivc_little_play_tip_not_pass">Sorry, the video contains inappropriate content.</string>
+    <string name="alivc_little_play_tip_resource_none">None</string>
+    <string name="alivc_little_play_tip_reviewing">Reviewing</string>
+    <string name="alivc_little_publish_hint_video_desc">Please input a video description</string>
+    <string name="alivc_little_publish_tip_description_beyond">The description must contain less than 20 characters</string>
+    <string name="alivc_little_publishing_can_not_recorder">Publishinging</string>
+    <string name="alivc_little_publishing_not_edit">Publishing</string>
+    <string name="alivc_little_setting_sdk_version">Short Video SDK Version【%s】\n Player SDK Version【%s】</string>
+    <string name="alivc_little_setting_tittle">Setting</string>
+    <string name="alivc_little_setting_video_version_code">little video version code : V</string>
+    <string name="alivc_little_tip_no_user">You must log on first</string>
+    <string name="alivc_little_user_setting_change_user">ChangeUser</string>
+    <string name="alivc_little_user_setting_dialog_change_user_tip">Switch to another account</string>
+    <string name="alivc_little_user_setting_finish">finish</string>
+    <string name="alivc_little_user_setting_input_nickname">Please input your nickname</string>
+    <string name="alivc_little_user_setting_new_nickname">NewNickName</string>
+    <string name="alivc_little_user_setting_tip_change_user_fail">Switch to another account failed，Please wait</string>
+    <string name="alivc_little_user_setting_tittle">UserSetting</string>
+    <string name="alivc_little_user_setting_word_limit">No more than 20 characters</string>
+    <string name="alivc_uninclude_module">uninclude this module</string>
+    <string name="app_name">AlivcLittleVideo</string>
+    <style name="AlivcDialogButtonStyle_Group">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_marginBottom">32dp</item>
+    </style>
+    <style name="AlivcDialogButtonStyle_Icon">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+        <item name="android:layout_gravity">center|bottom</item>
+    </style>
+    <style name="AlivcDialogButtonStyle_Text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/alivc_common_font_white</item>
+    </style>
+    <style name="AlivcLittlePublishEditTheme" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/alivc_common_bg_gray_darker</item>
+        <item name="colorControlActivated">@color/alivc_common_cyan_light</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="collapse" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/alivc_common_font_15</item>
+        <item name="android:textColor">@color/alivc_common_font_white</item>
+    </style>
+    <style name="expendText" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/alivc_common_font_13</item>
+        <item name="android:textColor">@color/alivc_common_font_white</item>
+    </style>
+    <style name="menuDialog" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/alivc_common_bg_transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <!-- 为了避免在有 NavigationBar 的手机上 Dialog 从 NavigationBar 底部上来。去掉 Dialog 的动画，使用 View 的动画。-->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:padding">0dp</item>
+    </style>
+</resources>

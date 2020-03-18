@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alivc_record_bg_rate_bar">#CC1C1F21</color>
+    <color name="alivc_record_bg_rate_selected">#F8F8F8</color>
+    <color name="alivc_record_bg_timeview">#33FFFFFF</color>
+    <color name="alivc_record_bg_timeview_duraton">#fd4646</color>
+    <color name="alivc_record_bg_timeview_selected">#3F51B5</color>
+    <color name="alivc_record_bg_tools_bar">#881B2133</color>
+    <color name="alivc_record_color_filter">#50C0C0C0</color>
+    <color name="aliyun_record_bg_seek_bar">#F05487</color>
+    <declare-styleable name="AlivcRecordUIStyle"><attr format="reference" name="recordMusicImage"/><attr format="reference" name="lightImageOpen"/><attr format="reference" name="lightImageAuto"/><attr format="reference" name="lightImageClose"/><attr format="reference" name="lightImageUnable"/><attr format="reference" name="countdownImage"/><attr format="reference" name="switchCameraImage"/><attr format="reference" name="finishImageUnable"/><attr format="reference" name="finishImageAble"/><attr format="reference" name="faceImage"/><attr format="reference" name="magicImage"/><attr format="reference" name="videoShootImageNormal"/><attr format="reference" name="videoShootImageShooting"/><attr format="reference" name="videoShootImageLongPressing"/><attr format="reference" name="deleteImage"/><attr format="reference" name="dotImage"/><attr format="reference" name="triangleImage"/></declare-styleable>
+    <declare-styleable name="BaseScrollPickerView"><attr format="reference|color" name="spv_center_item_background"/><attr format="integer" name="spv_visible_item_count"/><attr format="integer" name="spv_center_item_position"/><attr format="boolean" name="spv_is_circulation"/><attr format="boolean" name="spv_disallow_intercept_touch"/><attr format="string" name="spv_orientation">
+            <enum name="horizontal" value="1"/>
+            <enum name="vertical" value="2"/>
+        </attr></declare-styleable>
+    <declare-styleable name="StringScrollPicker"><attr format="dimension" name="spv_min_text_size"/><attr format="dimension" name="spv_max_text_size"/><attr format="color" name="spv_start_color"/><attr format="color" name="spv_end_color"/><attr format="dimension" name="spv_max_line_width"/><attr format="enum" name="spv_alignment">
+            <enum name="center" value="1"/>
+            <enum name="left" value="2"/>
+            <enum name="right" value="3"/>
+        </attr></declare-styleable>
+    <dimen name="alivc_record_focus_rect">60dp</dimen>
+    <dimen name="alivc_record_font_count_down">144sp</dimen>
+    <dimen name="alivc_record_margin_top_music">40dp</dimen>
+    <dimen name="alivc_record_timeline_height">10dp</dimen>
+    <dimen name="alivc_record_title_height">54dp</dimen>
+    <string name="alivc_mix_record_continue">"Your video is too short.</string>
+    <string name="alivc_progress_content_text">Copying resources…</string>
+    <string name="alivc_record_error_tip_play_video_error">The video format is invalid</string>
+    <string name="alivc_record_mix_compose_failure">Video creation failed</string>
+    <string name="alivc_record_not_supported_audio">The audio format is invalid</string>
+    <string name="alivc_record_request_no_permission_content_text">no permission</string>
+    <string name="alivc_record_request_permission_content_text"><![CDATA[Please allow ApsaraVideo to access Photos/camera/sdcard first，]]></string>
+    <string name="alivc_record_request_permission_negative_btn_text">Cancel</string>
+    <string name="alivc_record_request_permission_positive_btn_text">Setting</string>
+    <string name="alivc_record_video_crop_failed">Failed to crop the video</string>
+    <string name="alivc_recorder_control_click">Tap to record</string>
+    <string name="alivc_recorder_control_delete">Delete</string>
+    <string name="alivc_recorder_control_filter">Filter</string>
+    <string name="alivc_recorder_control_long_press">Hold down to record</string>
+    <string name="alivc_recorder_control_music">Music</string>
+    <string name="alivc_recorder_control_press">Hold down to record</string>
+    <string name="alivc_recorder_control_rate_fast">Fast</string>
+    <string name="alivc_recorder_control_rate_slow">Slow</string>
+    <string name="alivc_recorder_control_rate_standard">Normal</string>
+    <string name="alivc_recorder_control_rate_very_fast">Faster</string>
+    <string name="alivc_recorder_dialog_filter_none">Original</string>
+    <string name="alivc_recorder_menu_action_settings">Settings</string>
+    <string name="alivc_recorder_play_tip_video_save">The video is saved to Photos</string>
+    <string name="alivc_recorder_record_anim_filter">effect filter</string>
+    <string name="alivc_recorder_record_aspect_ratio_content">Change</string>
+    <string name="alivc_recorder_record_camera_permission_tip">No permission to access the camera</string>
+    <string name="alivc_recorder_record_compose">Creating video</string>
+    <string name="alivc_recorder_record_create_video">Creating video</string>
+    <string name="alivc_recorder_record_dialog_not_setting">Cancel</string>
+    <string name="alivc_recorder_record_dialog_permission_remind">Please allow ApsaraVideo to access Photos/camera/sdcard first</string>
+    <string name="alivc_recorder_record_filter_null">Original</string>
+    <string name="alivc_recorder_record_start_recorder">Record</string>
+    <string name="alivc_recorder_record_take_photo">take photo</string>
+    <string name="alivc_recorder_record_tip_phone_state_calling">Calling, Recording will be muted</string>
+    <string name="alivc_recorder_setting_bit_rate">Bit Rate(kbps)</string>
+    <string name="alivc_recorder_setting_close_face_detection">Face Detection Close</string>
+    <string name="alivc_recorder_setting_close_skin_filter">Skin Filter Open</string>
+    <string name="alivc_recorder_setting_codec">Encoding</string>
+    <string name="alivc_recorder_setting_encoder_ffmpeg">FFmpeg Software</string>
+    <string name="alivc_recorder_setting_encoder_hardware">Hardware</string>
+    <string name="alivc_recorder_setting_encoder_openh264">OpenH264 Software</string>
+    <string name="alivc_recorder_setting_frame_rate">FPS</string>
+    <string name="alivc_recorder_setting_general_text">Normal</string>
+    <string name="alivc_recorder_setting_gop">Keyframe Interval</string>
+    <string name="alivc_recorder_setting_gop_hint">Default: 30, Recommended: 1 to 300</string>
+    <string name="alivc_recorder_setting_height">Height</string>
+    <string name="alivc_recorder_setting_max_record_duration">Maximum Length</string>
+    <string name="alivc_recorder_setting_max_record_duration_hint">Default: 15 seconds, Maximum: 300 seconds</string>
+    <string name="alivc_recorder_setting_min_record_duration">Minimum Length</string>
+    <string name="alivc_recorder_setting_min_record_duration_hint">Default: 2 seconds. The minimum length must be greater than 0.</string>
+    <string name="alivc_recorder_setting_mix_text">Duet</string>
+    <string name="alivc_recorder_setting_open_face_detection">Face Detection Open</string>
+    <string name="alivc_recorder_setting_open_skin_filter">Skin Filter Close</string>
+    <string name="alivc_recorder_setting_quality">Quality</string>
+    <string name="alivc_recorder_setting_quality_high">High</string>
+    <string name="alivc_recorder_setting_quality_low">Low</string>
+    <string name="alivc_recorder_setting_quality_meidan">Medium</string>
+    <string name="alivc_recorder_setting_quality_super">Ultra High</string>
+    <string name="alivc_recorder_setting_ratio">Aspect Ratio</string>
+    <string name="alivc_recorder_setting_ratio_1_1">1:1</string>
+    <string name="alivc_recorder_setting_ratio_3_4">3:4</string>
+    <string name="alivc_recorder_setting_ratio_9_16">9:16</string>
+    <string name="alivc_recorder_setting_rendering_faceunity">FaceUnity</string>
+    <string name="alivc_recorder_setting_rendering_mode">Rendering Mode"</string>
+    <string name="alivc_recorder_setting_rendering_race">Race</string>
+    <string name="alivc_recorder_setting_resolution">Resolution</string>
+    <string name="alivc_recorder_setting_resolution_360p">360p</string>
+    <string name="alivc_recorder_setting_resolution_480p">480p</string>
+    <string name="alivc_recorder_setting_resolution_540p">540p</string>
+    <string name="alivc_recorder_setting_resolution_720p">720p</string>
+    <string name="alivc_recorder_setting_start">Start</string>
+    <string name="alivc_recorder_setting_start_record">Record</string>
+    <string name="alivc_recorder_setting_tip_duration_error">The minimum length cannot be greater than the maximum length</string>
+    <string name="alivc_recorder_setting_tittle">Record Settings</string>
+    <string name="alivc_recorder_setting_video_style">Record Mode</string>
+    <string name="alivc_recorder_setting_width">Width</string>
+    <string name="aliyun_beauty_face">Skin Filter</string>
+    <string name="aliyun_face_sticker">Stickers</string>
+    <string name="aliyun_rate_very_slow">Slower</string>
+    <string name="aliyun_start_mix_record">Select a video to create a duet</string>
+    <style name="AlivcRecordUIStyle" parent="Theme.AppCompat.NoActionBar">
+        <!--音乐按钮图片-->
+        <item name="recordMusicImage">@mipmap/alivc_svideo_icon_magic_music</item>
+        <!--闪光灯按钮图片 - 开启-->
+        <item name="lightImageOpen">@mipmap/aliyun_svideo_icon_magic_light</item>
+        <!--闪光灯按钮图片 - 自动-->
+        <item name="lightImageAuto">@mipmap/aliyun_svideo_icon_magic_light_auto</item>
+        <!--闪光灯按钮图片 - 关闭-->
+        <item name="lightImageClose">@mipmap/aliyun_svideo_icon_magic_light_off</item>
+        <!--闪光灯按钮图片 - 不可用/与关闭的图标相同自动加color过滤-->
+        <item name="lightImageUnable">@mipmap/aliyun_svideo_icon_magic_light_off</item>
+        <!--倒计时图片-->
+        <item name="countdownImage">@mipmap/alivc_svideo_icon_magic</item>
+        <!--切换摄像头的图片-->
+        <item name="switchCameraImage">@mipmap/alivc_svideo_icon_magic_turn</item>
+        <!--完成的按钮图片 - 不可用-->
+        <item name="finishImageUnable">@mipmap/alivc_svideo_icon_next_not_ready</item>
+        <!--完成的按钮图片 - 可用-->
+        <item name="finishImageAble">@mipmap/alivc_svideo_icon_next_complete</item>
+        <!--底部滤镜，美颜，美肌对应的按钮图片-->
+        <item name="faceImage">@mipmap/alivc_svideo_icon_beauty_face</item>
+        <!--底部动图mv对应的按钮图片-->
+        <item name="magicImage">@mipmap/alivc_svideo_icon_gif_effect</item>
+        <!--拍摄按钮图片 - 未开始拍摄-->
+        <item name="videoShootImageNormal">@mipmap/alivc_svideo_bg_record_storp</item>
+        <!--拍摄按钮图片 - 拍摄中-->
+        <item name="videoShootImageShooting">@mipmap/alivc_svideo_bg_record_pause</item>
+        <!--拍摄按钮图片 - 长按中-->
+        <item name="videoShootImageLongPressing">@mipmap/alivc_svideo_bg_record_start</item>
+        <!--回删对应的图片-->
+        <item name="deleteImage">@mipmap/alivc_svideo_icon_delete</item>
+        <!--拍摄中红点对应的图片-->
+        <item name="dotImage">@mipmap/alivc_svideo_record_time_tip</item>
+        <!--向上的三角形对应的图片-->
+        <item name="triangleImage">@mipmap/alivc_svideo_icon_selected_indicator</item>
+
+    </style>
+    <style name="CustomTheme_Dialog" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/notAnimation</item>
+    </style>
+    <style name="NoBackgroundDlgStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="QUDemoDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+    <style name="QUDemoFullFitStyle" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="QUDemoFullStyle" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="aliyun_video_bottom_dialog_animation">
+        <item name="android:windowEnterAnimation">@anim/aliyun_video_anim_trans_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/aliyun_video_anim_layout_bottom_out</item>
+    </style>
+    <style name="notAnimation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="record_bottom_dialog_animation">
+        <item name="android:windowEnterAnimation">@anim/aliyun_video_anim_trans_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/aliyun_video_anim_layout_bottom_out</item>
+    </style>
+</resources>

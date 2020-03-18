@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:7:22-78
+uses-feature#0x00020000
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:11:9-32
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:14:22-76
+application
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:16:5-27:19
+activity#com.aliyun.svideo.recorder.activity.AlivcSvideoRecordActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:18:9-21:57
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:20:13-49
+	android:theme
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:19:13-89
+activity#com.aliyun.svideo.recorder.activity.AlivcSvideoMixRecordActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:22:9-24:56
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:23:13-49
+	android:theme
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:24:13-54
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:22:19-98
+activity#com.aliyun.svideo.recorder.activity.AlivcMixMediaActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:25:9-26:52
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml:25:19-91
+uses-sdk
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/AndroidManifest.xml

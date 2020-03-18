@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/main/assets"/><source path="/Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/gradle-build/AliyunRecorder/record/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunRecorder/record/src/debug/assets"/></dataSet></merger>

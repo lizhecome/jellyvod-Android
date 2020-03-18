@@ -1,0 +1,2 @@
+# Referenced at /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/gradle-build/app/intermediates/manifests/full/debug/AndroidManifest.xml:39
+-keep class com.aliyun.alivcsolution.MutiApplication { <init>(); }

@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:9:22-68
+application
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:11:5-60:19
+activity#com.aliyun.svideo.editor.editor.EditorActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:15:13-49
+	android:launchMode
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:14:13-44
+	android:theme
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:16:13-52
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:13:13-74
+activity#com.aliyun.svideo.editor.EditorMediaActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:20:9-24:20
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:23:13-49
+	android:theme
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:21:13-72
+activity#com.aliyun.svideo.editor.effectmanager.EffectManagerActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:25:9-29:20
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:27:13-49
+	android:theme
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:28:13-63
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:26:13-88
+activity#com.aliyun.svideo.editor.effectmanager.MorePasterActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:30:9-34:20
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:32:13-49
+	android:theme
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:31:13-85
+activity#com.aliyun.svideo.editor.effectmanager.MoreCaptionActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:35:9-39:20
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:37:13-49
+	android:theme
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:38:13-63
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:36:13-86
+activity#com.aliyun.svideo.editor.effectmanager.MoreMVActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:40:9-44:20
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:43:13-63
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:41:13-81
+activity#com.aliyun.svideo.editor.publish.PublishActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:45:9-49:20
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:47:13-49
+	android:theme
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:48:13-63
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:46:13-76
+activity#com.aliyun.svideo.editor.publish.CoverEditActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:50:9-54:20
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:52:13-49
+	android:theme
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:53:13-63
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:51:13-78
+activity#com.aliyun.svideo.editor.publish.UploadActivity
+ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:55:9-59:65
+	android:screenOrientation
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:58:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:57:13-47
+	android:theme
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:59:13-63
+	android:name
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml:56:13-75
+uses-sdk
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
+INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
+		ADDED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
+		INJECTED from /Users/zheli/codebox/ApsaraVideoAndroid/demo/ApsaraVideoQuVideo/AliyunEditor/src/main/AndroidManifest.xml
